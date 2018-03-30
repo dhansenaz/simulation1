@@ -1,0 +1,12 @@
+.header{
+    height: 200px;
+    background-color: #ab2a19
+}
+.logo{
+    display: inline-block;
+    position: relative;
+    height:50px;
+    width:50px;
+    margin-left: -400px;
+    margin-top: 20px;
+}
