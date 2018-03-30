@@ -1,0 +1,39 @@
+.flexcontainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 25px;
+    align-items: left;
+
+}
+.shoes{
+    height:100px;
+    width: 300px;
+    background-color: #D34735;
+    margin:5px;
+    padding: 5px;
+    border-radius:10px;
+
+}
+.pants{
+    height:100px;
+    width: 300px;
+    background-color: #D34735;
+    margin:5px;
+    padding:5px;
+    border-radius:10px;
+    
+    
+
+}
+.jacket{
+    height:100px;
+    width: 300px;
+    background-color: #D34735;
+    margin:5px;
+    border-radius:10px;
+    padding:5px;
+    
+
+}

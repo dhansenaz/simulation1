@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import './dashboard.css'
 
 class Dashboard extends Component{
     constructor(){
@@ -7,8 +8,14 @@ class Dashboard extends Component{
     }
 render(){
     return(
-        <div>
-            Dashboard
+        <div className="flexcontainer">
+            <div className="shoes">
+            </div>
+            <div className="pants">
+            </div>
+            <div className="jacket">
+            </div>
+
         </div>
     )
 }
